@@ -1,4 +1,18 @@
 body {
   margin: 0;
   width: 100vw;
+  background-color: blanchedalmond;
+}
+
+h1 {
+  text-align: center;
+}
+
+.food {
+  border: solid black 1px;
+  border-radius: 10px;
+}
+
+.pricebar {
+  display: flex;
 }
