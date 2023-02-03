@@ -8,7 +8,9 @@ const Food = (props) => {
   // }
   return (
     <div class="food">
-      <h4>{props.name}</h4>
+      <h4>
+        <a href={props.image}>{props.name}</a>
+      </h4>
       {/* <img src={props.image} />
       <h5>Allergens: </h5> */}
       <h5>Price: ${props.price}</h5>

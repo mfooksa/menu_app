@@ -11,26 +11,11 @@ const App = () => {
     <div>
       <h1>Welcome to my Restaurant</h1>
       <div class="mainmenu">
-        <h2>Drinks</h2>
-        <div> </div>
-        <div class="menusection">
-          {foods.map((food) => (
-            <Drinks
-              key={food.name}
-              name={food.name}
-              category={food.category}
-              sizes={food.size_prices}
-              image={food.image}
-              allergens={food.allergens}
-              price={food.price}
-            />
-          ))}
-        </div>
-        <h2>Appetizers</h2>
-        <div class="menusection">
-          {foods.map((food) => (
-            <div>
-              <Appetizers
+        <div>
+          <h2>Drinks</h2>
+          <div class="menusection">
+            {foods.map((food) => (
+              <Drinks
                 key={food.name}
                 name={food.name}
                 category={food.category}
@@ -39,60 +24,84 @@ const App = () => {
                 allergens={food.allergens}
                 price={food.price}
               />
-            </div>
-          ))}
+            ))}
+          </div>
         </div>
-      </div>
-      <div class="mainmenu">
-        <h2>Entrees</h2>
-        <div class="menusection">
-          {foods.map((food) => (
-            <div>
-              <Entrees
-                key={food.name}
-                name={food.name}
-                category={food.category}
-                sizes={food.size_prices}
-                image={food.image}
-                allergens={food.allergens}
-                price={food.price}
-              />
-            </div>
-          ))}
-        </div>
-        <h2>Sandwiches</h2>
-        <div class="menusection">
-          {foods.map((food) => (
-            <div>
-              <Sandwiches
-                key={food.name}
-                name={food.name}
-                category={food.category}
-                sizes={food.size_prices}
-                image={food.image}
-                allergens={food.allergens}
-                price={food.price}
-              />
-            </div>
-          ))}
+        <div>
+          <h2>Appetizers</h2>
+          <div class="menusection">
+            {foods.map((food) => (
+              <div>
+                <Appetizers
+                  key={food.name}
+                  name={food.name}
+                  category={food.category}
+                  sizes={food.size_prices}
+                  image={food.image}
+                  allergens={food.allergens}
+                  price={food.price}
+                />
+              </div>
+            ))}
+          </div>
         </div>
       </div>
       <div class="mainmenu">
-        <h2>Desserts</h2>
-        <div class="menusection">
-          {foods.map((food) => (
-            <div>
-              <Desserts
-                key={food.name}
-                name={food.name}
-                category={food.category}
-                sizes={food.size_prices}
-                image={food.image}
-                allergens={food.allergens}
-                price={food.price}
-              />
-            </div>
-          ))}
+        <div>
+          <h2>Entrees</h2>
+          <div class="menusection">
+            {foods.map((food) => (
+              <div>
+                <Entrees
+                  key={food.name}
+                  name={food.name}
+                  category={food.category}
+                  sizes={food.size_prices}
+                  image={food.image}
+                  allergens={food.allergens}
+                  price={food.price}
+                />
+              </div>
+            ))}
+          </div>
+        </div>
+        <div>
+          <h2>Sandwiches</h2>
+          <div class="menusection">
+            {foods.map((food) => (
+              <div>
+                <Sandwiches
+                  key={food.name}
+                  name={food.name}
+                  category={food.category}
+                  sizes={food.size_prices}
+                  image={food.image}
+                  allergens={food.allergens}
+                  price={food.price}
+                />
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+      <div class="mainmenu">
+        <div>
+          <h2>Desserts</h2>
+          <div class="menusection">
+            {foods.map((food) => (
+              <div>
+                <Desserts
+                  key={food.name}
+                  name={food.name}
+                  category={food.category}
+                  sizes={food.size_prices}
+                  image={food.image}
+                  allergens={food.allergens}
+                  price={food.price}
+                />
+              </div>
+            ))}
+          </div>
         </div>
       </div>
     </div>
