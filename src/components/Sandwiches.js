@@ -1,9 +1,9 @@
 import Food from './Food'
 
-const Appetizers = (props) => {
+const Sandwiches = (props) => {
   return (
     <div class="menusection">
-      {props.category === 'appetizer' ? (
+      {props.category === 'sandwich' ? (
         <Food
           key={props.name}
           name={props.name}
@@ -16,4 +16,4 @@ const Appetizers = (props) => {
   )
 }
 
-export default Appetizers
+export default Sandwiches

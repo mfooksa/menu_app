@@ -31,7 +31,8 @@
         "price": 2.0
       }
     },
-    "category": "dessert"
+    "category": "dessert",
+    "price": 5.0
   },
   {
     "name": "Latte",
@@ -65,7 +66,8 @@
         "price": 2.0
       }
     },
-    "category": "drink"
+    "category": "drink",
+    "price": 5.0
   },
   {
     "name": "Salad",
@@ -99,7 +101,8 @@
         "price": 10.0
       }
     },
-    "category": "appetizer"
+    "category": "appetizer",
+    "price": 5.0
   },
   {
     "name": "Burrito",
@@ -141,7 +144,8 @@
         "price": 0
       }
     },
-    "category": "entree"
+    "category": "entree",
+    "price": 12.0
   },
   {
     "name": "Pizza",
@@ -175,7 +179,8 @@
         "price": 1.5
       }
     },
-    "category": "entree"
+    "category": "entree",
+    "price": 14.0
   },
   {
     "name": "Chicken Wings",
@@ -216,7 +221,8 @@
         "price": null
       }
     },
-    "category": "appetizer"
+    "category": "appetizer",
+    "price": 12.0
   },
   {
     "name": "Soda",
@@ -250,7 +256,8 @@
         "price": null
       }
     },
-    "category": "drink"
+    "category": "drink",
+    "price": 5.0
   },
   {
     "name": "Grilled Cheese",
@@ -284,7 +291,8 @@
         "price": 1.0
       }
     },
-    "category": "sandwich"
+    "category": "sandwich",
+    "price": 7.0
   },
   {
     "name": "Club Sandwich",
@@ -318,7 +326,8 @@
         "price": 5.0
       }
     },
-    "category": "sandwich"
+    "category": "sandwich",
+    "price": 10.0
   },
   {
     "name": "Red Curry",
@@ -362,7 +371,8 @@
         "price": 5.0
       }
     },
-    "category": "entree"
+    "category": "entree",
+    "price": 13.5
   },
   {
     "name": "Tikka Masala",
@@ -403,7 +413,8 @@
         "price": 6.0
       }
     },
-    "category": "entree"
+    "category": "entree",
+    "price": 14.0
   },
   {
     "name": "Quesadilla",
@@ -437,7 +448,8 @@
         "price": 5.0
       }
     },
-    "category": "entree"
+    "category": "entree",
+    "price": 12.0
   },
   {
     "name": "Spaghetti",
@@ -471,7 +483,8 @@
         "price": null
       }
     },
-    "category": "entree"
+    "category": "entree",
+    "price": 16.0
   },
   {
     "name": "Hamburger",
@@ -505,7 +518,8 @@
         "price": 2.0
       }
     },
-    "category": "sandwich"
+    "category": "sandwich",
+    "price": 12.0
   },
   {
     "name": "Bacon Blue Burger",
@@ -539,7 +553,8 @@
         "price": 0.5
       }
     },
-    "category": "sandwich"
+    "category": "sandwich",
+    "price": 13.0
   },
   {
     "name": "Tea",
@@ -573,7 +588,8 @@
         "price": 0
       }
     },
-    "category": "drink"
+    "category": "drink",
+    "price": 4.0
   },
   {
     "name": "Meat Pie",
@@ -607,7 +623,8 @@
         "price": null
       }
     },
-    "category": "entree"
+    "category": "entree",
+    "price": 7.0
   },
   {
     "name": "Nachos",
@@ -648,7 +665,8 @@
         "price": 3.0
       }
     },
-    "category": "appetizer"
+    "category": "appetizer",
+    "price": 12.0
   },
   {
     "name": "Cake",
@@ -692,7 +710,8 @@
         "price": 4.0
       }
     },
-    "category": "dessert"
+    "category": "dessert",
+    "price": 6.0
   },
   {
     "name": "Hot Chocolate",
@@ -726,7 +745,8 @@
         "price": 4.0
       }
     },
-    "category": "drink"
+    "category": "drink",
+    "price": 4.5
   },
   {
     "name": "Beer",
@@ -760,7 +780,8 @@
         "price": null
       }
     },
-    "category": "drink"
+    "category": "drink",
+    "price": 8.0
   },
   {
     "name": "Fried Pickles",
@@ -794,7 +815,8 @@
         "price": null
       }
     },
-    "category": "appetizer"
+    "category": "appetizer",
+    "price": 12.0
   },
   {
     "name": "Oysters",
@@ -828,7 +850,8 @@
         "price": 0
       }
     },
-    "category": "appetizer"
+    "category": "appetizer",
+    "price": 15.0
   },
   {
     "name": "Stir Fry",
@@ -871,7 +894,8 @@
         "price": 0.5
       }
     },
-    "category": "entree"
+    "category": "entree",
+    "price": 15.0
   },
   {
     "name": "Wine",
@@ -905,6 +929,7 @@
         "price": null
       }
     },
-    "category": "drink"
+    "category": "drink",
+    "price": 9.0
   }
 ]
