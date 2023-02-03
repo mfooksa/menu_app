@@ -9,8 +9,8 @@ const Food = (props) => {
   return (
     <div class="food">
       <h4>{props.name}</h4>
-      <img src={props.image} />
-      <h5>Allergens: </h5>
+      {/* <img src={props.image} />
+      <h5>Allergens: </h5> */}
       <h5>Price: ${props.price}</h5>
     </div>
   )
