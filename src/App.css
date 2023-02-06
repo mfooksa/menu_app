@@ -20,6 +20,11 @@ a {
   color: black;
 }
 
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
 .food {
   /* border: solid black 1px;
   border-radius: 10px; */
@@ -52,4 +57,29 @@ img {
 .mainmenu {
   display: flex;
   justify-content: space-between;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid black;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  height: 2cm;
+  margin: 0;
+}
+
+nav p {
+  display: inline;
+  padding-inline: 5px;
+}
+
+.leftpad{
+  padding-left: 20px;
+}
+
+.rightpad {
+  padding-right: 20px;
 }

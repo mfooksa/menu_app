@@ -9,6 +9,20 @@ import Sandwiches from './components/Sandwiches'
 const App = () => {
   return (
     <div>
+      <nav>
+        <div>
+          <p>Home</p>
+          <p>About Us</p>
+        </div>
+        <div>
+          <p>
+            <a href="fake.com">Log In</a>
+          </p>
+          <p>
+            <a href="fake.com">Sign Up</a>
+          </p>
+        </div>
+      </nav>
       <h1>Welcome to my Restaurant</h1>
       <h2>Click on each menu item to learn more!</h2>
       <div class="mainmenu">
