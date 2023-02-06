@@ -16,7 +16,7 @@
     "allergens": ["dairy"],
     "country of origin": "Italy",
     "vegan": false,
-    "gluten-free": true,
+    "glutenfree": true,
     "addons": {
       "first": {
         "name": "sprinkles",
@@ -51,7 +51,7 @@
     "allergens": ["dairy"],
     "country of origin": "Italy",
     "vegan": false,
-    "gluten-free": true,
+    "glutenfree": true,
     "addons": {
       "first": {
         "name": "soy milk",
@@ -86,7 +86,7 @@
     "allergens": [],
     "country of origin": "Italy",
     "vegan": true,
-    "gluten-free": true,
+    "glutenfree": true,
     "addons": {
       "first": {
         "name": "chicken",
@@ -129,7 +129,7 @@
     "allergens": ["dairy", "wheat"],
     "country of origin": "Mexico",
     "vegan": false,
-    "gluten-free": false,
+    "glutenfree": false,
     "addons": {
       "first": {
         "name": "guacamole",
@@ -164,7 +164,7 @@
     "allergens": ["dairy", "wheat", "eggs"],
     "country of origin": "Italy",
     "vegan": false,
-    "gluten-free": false,
+    "glutenfree": false,
     "addons": {
       "first": {
         "name": "meat",
@@ -206,7 +206,7 @@
     "allergens": ["wheat", "dairy"],
     "country of origin": "USA",
     "vegan": false,
-    "gluten-free": false,
+    "glutenfree": false,
     "addons": {
       "first": {
         "name": "extra ranch",
@@ -241,7 +241,7 @@
     "allergens": [],
     "country of origin": "USA",
     "vegan": true,
-    "gluten-free": true,
+    "glutenfree": true,
     "addons": {
       "first": {
         "name": null,
@@ -276,7 +276,7 @@
     "allergens": ["dairy", "wheat"],
     "country of origin": "USA",
     "vegan": false,
-    "gluten-free": false,
+    "glutenfree": false,
     "addons": {
       "first": {
         "name": "tomato",
@@ -311,7 +311,7 @@
     "allergens": ["wheat", "egg"],
     "country of origin": "USA",
     "vegan": false,
-    "gluten-free": false,
+    "glutenfree": false,
     "addons": {
       "first": {
         "name": "extra meat",
@@ -356,7 +356,7 @@
     "allergens": [],
     "country of origin": "Thailand",
     "vegan": true,
-    "gluten-free": true,
+    "glutenfree": true,
     "addons": {
       "first": {
         "name": "chicken",
@@ -398,7 +398,7 @@
     "allergens": [],
     "country of origin": "India",
     "vegan": false,
-    "gluten-free": true,
+    "glutenfree": true,
     "addons": {
       "first": {
         "name": "extra meat",
@@ -433,7 +433,7 @@
     "allergens": ["wheat", "dairy"],
     "country of origin": "Mexico",
     "vegan": false,
-    "gluten-free": false,
+    "glutenfree": false,
     "addons": {
       "first": {
         "name": "guacamole",
@@ -468,7 +468,7 @@
     "allergens": ["dairy"],
     "country of origin": "Italy",
     "vegan": false,
-    "gluten-free": false,
+    "glutenfree": false,
     "addons": {
       "first": {
         "name": "meatballs",
@@ -503,7 +503,7 @@
     "allergens": ["wheat", "dairy", "egg"],
     "country of origin": "USA",
     "vegan": false,
-    "gluten-free": false,
+    "glutenfree": false,
     "addons": {
       "first": {
         "name": "cheese",
@@ -538,7 +538,7 @@
     "allergens": ["wheat", "dairy", "egg"],
     "country of origin": "USA",
     "vegan": false,
-    "gluten-free": false,
+    "glutenfree": false,
     "addons": {
       "first": {
         "name": "extra bacon",
@@ -573,7 +573,7 @@
     "allergens": [],
     "country of origin": "China",
     "vegan": true,
-    "gluten-free": true,
+    "glutenfree": true,
     "addons": {
       "first": {
         "name": "milk",
@@ -608,7 +608,7 @@
     "allergens": ["egg"],
     "country of origin": "New Zealand",
     "vegan": false,
-    "gluten-free": false,
+    "glutenfree": false,
     "addons": {
       "first": {
         "name": "ketchup",
@@ -650,7 +650,7 @@
     "allergens": ["dairy"],
     "country of origin": "Mexico",
     "vegan": false,
-    "gluten-free": true,
+    "glutenfree": true,
     "addons": {
       "first": {
         "name": "carnitas",
@@ -695,7 +695,7 @@
     "allergens": ["wheat", "dairy", "egg"],
     "country of origin": "USA",
     "vegan": false,
-    "gluten-free": false,
+    "glutenfree": false,
     "addons": {
       "first": {
         "name": "ice cream",
@@ -730,7 +730,7 @@
     "allergens": ["dairy"],
     "country of origin": "Mexico",
     "vegan": false,
-    "gluten-free": true,
+    "glutenfree": true,
     "addons": {
       "first": {
         "name": "marshmallows",
@@ -765,7 +765,7 @@
     "allergens": [],
     "country of origin": "Mesopotamia",
     "vegan": true,
-    "gluten-free": false,
+    "glutenfree": false,
     "addons": {
       "first": {
         "name": null,
@@ -800,7 +800,7 @@
     "allergens": ["wheat"],
     "country of origin": "USA",
     "vegan": false,
-    "gluten-free": false,
+    "glutenfree": false,
     "addons": {
       "first": {
         "name": "extra ranch",
@@ -835,7 +835,7 @@
     "allergens": ["shellfish"],
     "country of origin": "South Africa",
     "vegan": false,
-    "gluten-free": true,
+    "glutenfree": true,
     "addons": {
       "first": {
         "name": "cocktail sauce",
@@ -879,7 +879,7 @@
     "allergens": ["soy"],
     "country of origin": "China",
     "vegan": false,
-    "gluten-free": true,
+    "glutenfree": true,
     "addons": {
       "first": {
         "name": "extra meat",
@@ -914,7 +914,7 @@
     "allergens": [],
     "country of origin": "Mesopotamia",
     "vegan": true,
-    "gluten-free": true,
+    "glutenfree": true,
     "addons": {
       "first": {
         "name": null,

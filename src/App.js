@@ -22,8 +22,9 @@ const App = () => {
                 category={food.category}
                 sizes={food.size_prices}
                 image={food.image}
-                allergens={food.allergens}
+                vegan={food.vegan}
                 price={food.price}
+                gf={food.glutenfree}
               />
             ))}
           </div>

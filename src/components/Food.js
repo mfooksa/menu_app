@@ -13,16 +13,24 @@ const Food = (props) => {
     setShown((current) => !current)
   }
   return (
-    <div class="food">
-      <h4>
-        <a onClick={show}>{props.name}</a>
-      </h4>
+    <div>
+      <div class="food">
+        <h4>
+          <a onClick={show}>{props.name}</a>
+        </h4>
+        <h5>Price: ${props.price.toFixed(2)}</h5>
+      </div>
       {shown && (
         <div>
           <img src={props.image} />
+
+          {props.vegan ? (
+            <p>This item is vegan</p>
+          ) : (
+            <p>This item is not vegan</p>
+          )}
         </div>
       )}
-      <h5>Price: ${props.price.toFixed(2)}</h5>
     </div>
   )
 }
