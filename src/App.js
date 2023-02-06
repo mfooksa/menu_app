@@ -10,6 +10,7 @@ const App = () => {
   return (
     <div>
       <h1>Welcome to my Restaurant</h1>
+      <h2>Click on each menu item to learn more!</h2>
       <div class="mainmenu">
         <div>
           <h2>Drinks</h2>
