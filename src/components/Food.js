@@ -23,12 +23,18 @@ const Food = (props) => {
       {shown && (
         <div>
           <img src={props.image} />
-
-          {props.vegan ? (
-            <p>This item is vegan</p>
-          ) : (
-            <p>This item is not vegan</p>
-          )}
+          {props.vegan && props.gf ? (
+            <p>This item is vegan and gluten-free.</p>
+          ) : null}
+          {props.vegan && !props.gf ? (
+            <p>This item is vegan and contains gluten.</p>
+          ) : null}
+          {!props.vegan && props.gf ? (
+            <p>This item is gluten-free. This item is not vegan.</p>
+          ) : null}
+          {!props.vegan && !props.gf ? (
+            <p>This item is neither vegan nor gluten-free.</p>
+          ) : null}
         </div>
       )}
     </div>

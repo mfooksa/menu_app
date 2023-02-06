@@ -12,6 +12,7 @@ const Drinks = (props) => {
             image={props.image}
             price={props.price}
             vegan={props.vegan}
+            gf={props.gf}
           />
         </div>
       ) : null}

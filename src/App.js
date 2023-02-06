@@ -42,6 +42,8 @@ const App = () => {
                   image={food.image}
                   allergens={food.allergens}
                   price={food.price}
+                  vegan={food.vegan}
+                  gf={food.glutenfree}
                 />
               </div>
             ))}
@@ -62,6 +64,8 @@ const App = () => {
                   image={food.image}
                   allergens={food.allergens}
                   price={food.price}
+                  vegan={food.vegan}
+                  gf={food.glutenfree}
                 />
               </div>
             ))}
@@ -80,6 +84,8 @@ const App = () => {
                   image={food.image}
                   allergens={food.allergens}
                   price={food.price}
+                  vegan={food.vegan}
+                  gf={food.glutenfree}
                 />
               </div>
             ))}
@@ -100,6 +106,8 @@ const App = () => {
                   image={food.image}
                   allergens={food.allergens}
                   price={food.price}
+                  vegan={food.vegan}
+                  gf={food.glutenfree}
                 />
               </div>
             ))}
