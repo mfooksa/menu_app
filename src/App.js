@@ -14,9 +14,10 @@ const App = () => {
           <p>Home</p>
           <p>About Us</p>
         </div>
+        <img src="https://images.unsplash.com/photo-1588604820861-a4840746755d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2712&q=80" />
         <div>
           <p>
-            <a href="fake.com">Log In</a>
+            <a href="fake.com">Contact Us</a>
           </p>
           <p>
             <a href="fake.com">Sign Up</a>

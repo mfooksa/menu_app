@@ -25,6 +25,11 @@ nav a {
   text-decoration: none;
 }
 
+nav img {
+  height: 1.5cm;
+  width: auto;
+}
+
 .food {
   /* border: solid black 1px;
   border-radius: 10px; */
