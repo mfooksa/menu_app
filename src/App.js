@@ -25,7 +25,12 @@ const App = () => {
         </div>
       </nav>
       <h1>Welcome to my Restaurant</h1>
-      <h2>Click on each menu item to learn more!</h2>
+      <h3>
+        We are a family-owned and operated establishment located solely on this
+        website. We aim to provide information about these food items that you
+        unfortunately are unable to actually order. Click on each menu item to
+        learn more!
+      </h3>
       <div class="mainmenu">
         <div>
           <h2>Drinks</h2>

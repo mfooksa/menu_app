@@ -8,6 +8,7 @@ body {
 
 h1 {
   text-align: center;
+  padding: 10px;
 }
 
 .mainmenu h2 {
@@ -50,6 +51,16 @@ nav img {
 
 img {
   width: 100px;
+}
+
+h3 {
+  margin-left: 2cm;
+  margin-right: 2cm;
+}
+
+h2 {
+  font-family: cursive;
+  letter-spacing: 2px;
 }
 
 .menusection {
