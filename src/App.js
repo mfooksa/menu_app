@@ -31,6 +31,15 @@ const App = () => {
         unfortunately are unable to actually order. Click on each menu item to
         learn more!
       </h3>
+      <div class="gif">
+        <iframe
+          allow="fullscreen"
+          frameBorder="0"
+          height="360"
+          src="https://giphy.com/embed/7miScS1Jlkajv92Xbl/video"
+          width="480"
+        ></iframe>
+      </div>
       <div class="mainmenu">
         <div>
           <h2>Drinks</h2>
