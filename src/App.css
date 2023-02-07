@@ -64,7 +64,12 @@ h2 {
 }
 
 .gif {
-  width: 480px;
+  width: 400px;
+  margin-left: 450px;
+}
+
+iframe {
+  border: solid black 10px;
 }
 
 .menusection {
