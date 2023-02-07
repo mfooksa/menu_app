@@ -28,9 +28,9 @@ const App = () => {
       <h3>
         We are a family-owned and operated establishment located solely on this
         website. We aim to provide information about these food items that you
-        unfortunately are unable to actually order. Click on each menu item to
-        learn more!
+        unfortunately are unable to actually order.
       </h3>
+      <h3> Click on each menu item to learn more!</h3>
       <div class="gif">
         <iframe
           allow="fullscreen"
