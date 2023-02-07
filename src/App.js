@@ -143,6 +143,7 @@ const App = () => {
           </div>
         </div>
       </div>
+      <h2 class="adieu">Come back and see us soon!</h2>
     </div>
   )
 }
